@@ -37,6 +37,14 @@ ol, ul {
 	list-style: none;
 }
 
+
+.line {
+	height: 7px;
+    color: grey;
+	background-color: grey;
+
+}
+
 blockquote, q {
 	quotes: none;
 }
